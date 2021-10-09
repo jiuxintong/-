@@ -178,6 +178,7 @@ int main()
 						cout<<"再接再厉"<<endl;
 					}
 			}
+			system("color 06");
 		}
 	}
 	return 0;

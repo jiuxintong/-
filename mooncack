@@ -2,7 +2,6 @@
 #include <string.h>
 #include <time.h>
 using namespace std;
-//缂栬瘧鍛戒护
 //g++ bobingexample.cpp -I ../inc -fPIC -shared -o bobin.dll
 typedef struct Result
 {
